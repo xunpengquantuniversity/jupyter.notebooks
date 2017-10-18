@@ -1,6 +1,8 @@
 # jupyter.notebooks
 notes for different jyputer notebook
 
+#### jupyter hub
+    AMI: ami-1f917b67
 
 #### R notebook
     AMI: ami-59ca0c21
